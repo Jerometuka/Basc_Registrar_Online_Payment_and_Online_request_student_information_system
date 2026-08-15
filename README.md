@@ -1,3 +1,6 @@
+ leader
+#new file
+=======
 # Basc_Registrar_Online_Payment_and_Online_request
 BSIT Group Project Repository
 
@@ -10,3 +13,4 @@ Project Members
 
 # Description
 This project is an online payment and request system for the Basc Registrar office.
+>>>>>> main
