@@ -3,9 +3,9 @@ BSIT Group Project Repository
 
 Project Members
 - Leader: [jerometuka]
-- UI Designer: [Name]
+- UI Designer: [tontonmilarpiz-del]
 - Front-end Developer: johnmarco-11
-- Back-end Developer: [Name]
+- Back-end Developer: [jeroviolago]
 - Documentation: [Name]
 
 # Description
