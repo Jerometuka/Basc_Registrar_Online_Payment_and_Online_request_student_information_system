@@ -6,7 +6,7 @@ Project Members
 - UI Designer: [tontonmilarpiz-del]
 - Front-end Developer: johnmarco-11
 - Back-end Developer: [jeroviolago]
-- Documentation: [Name]
+- Documentation: [marcjustine]
 
 # Description
 This project is an online payment and request system for the Basc Registrar office.
