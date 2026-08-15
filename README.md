@@ -6,10 +6,10 @@ BSIT Group Project Repository
 
 Project Members
 - Leader: [jerometuka]
-- UI Designer: [tontonmilarpiz-del]
+- UI Designer: [marcjustine]
 - Front-end Developer: johnmarco-11
 - Back-end Developer: [jeroviolago]
-- Documentation: [marcjustine]
+- Documentation: [tontonmilarpiz-del]
 
 # Description
 This project is an online payment and request system for the Basc Registrar office.
