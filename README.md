@@ -12,5 +12,5 @@ Project Members
 - Documentation: [tontonmilarpiz-del]
 
 # Description
-This project is an online payment and request system for the Basc Registrar office.
+This project is an online payment and request system for the Basc Registrar office and for students.
 >>>>>> main
