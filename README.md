@@ -13,4 +13,5 @@ Project Members
 
 # Description
 This project is an online payment and request system for the Basc Registrar office and for students.
+The BASC Registrar Online Payment and Online Request Student Information System is a web-based system that allows students to request school documents, make online payments, and track their requests conveniently.
 >>>>>> main
