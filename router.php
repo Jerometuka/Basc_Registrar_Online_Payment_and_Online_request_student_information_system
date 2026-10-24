@@ -1,18 +1,10 @@
-{
-  "builds": [
-    {
-      "src": "router.php",
-      "use": "vercel-php@0.6.2"
-    }
-  ],
-  "rewrites": [
-    {
-      "source": "/(.*\\.php)",
-      "destination": "/router.php?page=$1"
-    },
-    {
-      "source": "/",
-      "destination": "/router.php?page=signin.php"
-    }
-  ]
+<?php
+$page = isset($_GET['page']) ? $_GET['page'] : 'signin.php';
+
+if (file_exists($page)) {
+    require $page;
+} else {
+    http_response_code(404);
+    echo "404 - Page not found.";
 }
+?>
