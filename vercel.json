@@ -12,7 +12,7 @@
     },
     {
       "source": "/",
-      "destination": "/router.php?page=signin.php"
+      "destination": "/router.php?page=index.php"
     }
   ]
 }
